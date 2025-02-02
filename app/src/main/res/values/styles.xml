@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="TextInputError">
+        <item name="android:textColor">#B00020</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+</resources>

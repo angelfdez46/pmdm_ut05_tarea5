@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_show_location"
+        android:title="Mostrar ubicación"/>
+    <item android:id="@+id/action_email"
+        android:title="Email"/>
+    <item android:id="@+id/action_call"
+        android:title="Llamar"/>
+    <item android:id="@+id/action_web"
+        android:title="Ver web"/>
+    <item android:id="@+id/action_whatsapp"
+        android:title="WhatsApp"/>
+</menu>
