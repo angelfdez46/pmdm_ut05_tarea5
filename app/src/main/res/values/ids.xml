@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonSave" type="id" />
+    <item name="editTextDescription" type="id" />
+    <item name="editTextHeroName" type="id" />
+    <item name="editTextRealName" type="id" />
+    <item name="textHeroId" type="id" />
+    <item name="action_save" type="id" />
+</resources>
